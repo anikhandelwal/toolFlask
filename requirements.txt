@@ -1,4 +1,4 @@
 Flask==3.0.1
 fitz==0.0.1.dev2
-docx==1.1.0
+docx
 werkzeug==3.0.1
