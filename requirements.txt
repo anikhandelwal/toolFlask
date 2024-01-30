@@ -84,7 +84,6 @@ Pillow==8.0.1
 prompt-toolkit==3.0.19
 prov==2.0.0
 psutil==5.9.0
-PyAudio @ file:///C:/Users/dell/Downloads/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 pycparser==2.21
 pydot==2.0.0
