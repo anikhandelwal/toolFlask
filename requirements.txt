@@ -1,6 +1,4 @@
 Flask==3.0.1
-fitz
 docx
 werkzeug==3.0.1
 pymupdf
-frontend
